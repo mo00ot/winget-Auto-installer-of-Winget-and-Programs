@@ -1,4 +1,5 @@
-Created by mo00ot. for bugs contact mootobject@duck.com <Object: Auto-installer-of-Winget-and-Programs-BUGS >
+Created by mo00ot. for bugs contact mootobject@duck.com <Object: Auto-installer-of-Winget-and-Programs-BUGS > Discord: https://discord.gg/CXU5vCdWkY
+if you have upgraded the script please write to me.
 Preconfigurated with Firefox ESR, Notepad++, Advanced IP Scanner, 7-Zip, WinSCP, PuTTY, qBittorrent, NordVPN and HWMonitor.
 
 
